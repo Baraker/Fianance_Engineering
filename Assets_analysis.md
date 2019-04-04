@@ -477,7 +477,7 @@ for j in range(0,t):
 """
 
     Esta função implementa o cálcudo do indice sharpe, entretanto por questões da taxa de retorno de referência (rf)
-e pelo período de tempo amostrado dos ativos o índice sharpe resulta em valores errôneos. A soluçaõ para este proble-
+e pelo período de tempo amostrado dos ativos, o índice sharpe resulta em valores errôneos. A soluçaõ para este proble-
 ainda não foi encontrada por mim e seus efeitos são visíveis nas partes seguintes do código que implementam o porti-
 fólio de Markowitz.
 
