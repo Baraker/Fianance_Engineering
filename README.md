@@ -1,1 +1,1 @@
- 
+Este repositório é destinado a exibir meus trabalhos sobre engenharia financeira, e processamento de sinais financeiros.
